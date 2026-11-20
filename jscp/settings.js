@@ -19,7 +19,7 @@ let settings = {
             image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
-            image: './image/photos/b11.png', // Menggantikan lhvuck.png (Index 1)
+            image: './image/photos/b55.png', // Menggantikan lhvuck.png (Index 1)
         },
 
         // --- Lembar 2 (data-page="1") ---
